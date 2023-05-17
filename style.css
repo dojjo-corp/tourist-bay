@@ -1,0 +1,48 @@
+body {
+    background-color: #7c5f36;
+    color: #ddcece;
+    font-size: 18px;
+    padding: 0 40px;
+}
+
+nav {
+    margin-bottom: 50px;
+}
+
+a {
+    color: #fff;
+    text-decoration-thickness: 5px;
+    margin-right: 10px;
+}
+
+hr {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+footer {
+    text-align: center;
+}
+/* *****************HOME PAGE******************* */
+/* TOP QUOTE SECTION*/
+.greeting {
+    font-size: 78px;
+    text-align: center;
+}
+
+blockquote p {
+    font-size: 48px;
+    font-weight: 600;
+}
+
+
+/* *****************ABOUT PAGE******************* */
+#about-page {
+    color: #fff!important;
+    background-image: url("html pics/pexels-laura-meinhardt-16102242.jpg");
+    background-size:cover ;
+}
+
+.history-text {
+
+}
